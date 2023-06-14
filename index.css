@@ -1,0 +1,22 @@
+.banner {
+    background-color: pink;
+    color: brown;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#the-girls {
+    height: 100px;
+    width: 100px;
+}
+
+#chip-tune {
+    color: hotpink;
+    FONT-SIZE: 80px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: 900;
+}
